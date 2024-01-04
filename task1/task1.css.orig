@@ -23,17 +23,6 @@
 .inner-container {
     margin-left: 14px;
 }
-<<<<<<< HEAD
-=======
-.username {
-  font-family: "roboto";
-  font-weight: bold;
-  font-size: 20px;
-  color: red;
-  margin: 0;
-  padding: 0;
-  margin-bottom: 14px;
->>>>>>> 54e1a126fd84c6aaf015455584ddc4301c4e0ada
 
 .username {
     font-family: "roboto";
@@ -47,16 +36,6 @@
 }
 
 .tweet-info {
-<<<<<<< HEAD
-    /* border: 2px solid rgb(95, 45, 53); */
-    font-family: "roboto";
-    font-weight: Regular;
-    font-size: 20px;
-    color: yellow;
-    margin: 0;
-    padding: 0;
-    margin-bottom: 24px;
-=======
   /* border: 2px solid rgb(95, 45, 53); */
   font-family: "roboto";
   font-weight: Regular;
@@ -65,7 +44,6 @@
   margin: 0;
   padding: 0;
   margin-bottom: 24px;
->>>>>>> 54e1a126fd84c6aaf015455584ddc4301c4e0ada
 }
 
 .button-container {
