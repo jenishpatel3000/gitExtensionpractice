@@ -10,10 +10,20 @@
 
 <body>
     <div class="container">
+<<<<<<< HEAD
+      <div class="row">
+        <img class="image" src="mark.webp" alt="mark zukerburg profile image" />
+        <div class="inner-container">
+          <p class="username">@HetShree</p>
+          <p class="tweet-info">I'd love to share you my photo!</p>
+          <div class="button-container">
+            <div class="pair1 pair-container">
+              <img class="msg icon" src="./chat.svg" alt="message icon" />
+              <p class="count">242</p>
+=======
         <div class="row">
             <img class="image" src="mark.webp" alt="mark zukerburg profile image" />
             <div class="inner-container">
-          <p class="username">@HetShree</p>
                 <p class="username">@JenishPatel</p>
                 <p class="tweet-info">I'd love to share you my photo!</p>
                 <div class="button-container">
@@ -32,6 +42,7 @@
                         <p class="count">2.6k</p>
                     </div>
                 </div>
+>>>>>>> 7280e32381e0f923d10237e0ce04f1588d34e15c
             </div>
         </div>
     </div>
